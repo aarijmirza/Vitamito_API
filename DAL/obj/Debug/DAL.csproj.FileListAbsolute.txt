@@ -1,0 +1,187 @@
+D:\Rafi Data\Airtech\lunchbox\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\DAL.dll.config
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\DAL.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\DAL.pdb
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\EntityFramework.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Helpers.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Mvc.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\EntityFramework.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\lunchbox\DAL\obj\Debug\DAL.dll
+D:\Rafi Data\Airtech\lunchbox\DAL\obj\Debug\DAL.pdb
+D:\Rafi Data\Airtech\lunchbox\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\DAL.dll.config
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\DAL.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\DAL.pdb
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\EntityFramework.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\Newtonsoft.Json.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Helpers.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Mvc.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\EntityFramework.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\lunchbox\API\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\lunchbox\API\DAL\obj\Debug\DAL.dll
+D:\Rafi Data\Airtech\lunchbox\API\DAL\obj\Debug\DAL.pdb
+D:\Rafi Data\Airtech\lunchbox\API\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\DAL.dll.config
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\DAL.dll
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\DAL.pdb
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\EntityFramework.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.Razor.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\food carrier\API\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\food carrier\API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\food carrier\API\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\food carrier\API\DAL\obj\Debug\DAL.dll
+D:\Rafi Data\Airtech\food carrier\API\DAL\obj\Debug\DAL.pdb
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\DAL.dll.config
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\DAL.dll
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\DAL.pdb
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\EntityFramework.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.Razor.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\obj\Debug\DAL.dll
+D:\Rafi Data\Airtech\pos\APP-API\API\DAL\obj\Debug\DAL.pdb
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\DAL.dll.config
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\DAL.dll
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\DAL.pdb
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\EntityFramework.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\Newtonsoft.Json.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.Helpers.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.Mvc.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.Razor.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.WebPages.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+\\192.168.0.105\airtechshare\Ammad\API\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+\\192.168.0.105\airtechshare\Ammad\API\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+\\192.168.0.105\airtechshare\Ammad\API\DAL\obj\Debug\DAL.csproj.CopyComplete
+\\192.168.0.105\airtechshare\Ammad\API\DAL\obj\Debug\DAL.dll
+\\192.168.0.105\airtechshare\Ammad\API\DAL\obj\Debug\DAL.pdb
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\DAL.dll.config
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\DAL.dll
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\DAL.pdb
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\EntityFramework.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.Razor.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Air Tech Solution\API-Food-Carrier\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Air Tech Solution\API-Food-Carrier\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Air Tech Solution\API-Food-Carrier\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Air Tech Solution\API-Food-Carrier\DAL\obj\Debug\DAL.dll
+D:\Air Tech Solution\API-Food-Carrier\DAL\obj\Debug\DAL.pdb
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\DAL.dll.config
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\DAL.dll
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\DAL.pdb
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\EntityFramework.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.Razor.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Air Tech Solution\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Air Tech Solution\API-ECommerce\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Air Tech Solution\API-ECommerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Air Tech Solution\API-ECommerce\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Air Tech Solution\API-ECommerce\DAL\obj\Debug\DAL.dll
+D:\Air Tech Solution\API-ECommerce\DAL\obj\Debug\DAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\obj\Debug\DAL.dll
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\obj\Debug\DAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\DAL.dll.config
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\DAL.dll
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\DAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\EntityFramework.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.Razor.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\GoSmartAPI\DAL\bin\Debug\DAL.dll.config
+D:\Project\GoSmartAPI\DAL\bin\Debug\DAL.dll
+D:\Project\GoSmartAPI\DAL\bin\Debug\DAL.pdb
+D:\Project\GoSmartAPI\DAL\bin\Debug\EntityFramework.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\Newtonsoft.Json.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.Helpers.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.Mvc.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.Razor.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.WebPages.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Project\GoSmartAPI\DAL\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Project\GoSmartAPI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Project\GoSmartAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\GoSmartAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\GoSmartAPI\DAL\obj\Debug\DAL.dll
+D:\Project\GoSmartAPI\DAL\obj\Debug\DAL.pdb
+D:\Project\CarExpressAPI\DAL\bin\Debug\DAL.dll.config
+D:\Project\CarExpressAPI\DAL\bin\Debug\DAL.dll
+D:\Project\CarExpressAPI\DAL\bin\Debug\DAL.pdb
+D:\Project\CarExpressAPI\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+D:\Project\CarExpressAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Project\CarExpressAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Project\CarExpressAPI\DAL\obj\Debug\DAL.dll
+D:\Project\CarExpressAPI\DAL\obj\Debug\DAL.pdb
+D:\Projects\VitamitoAPI\DAL\bin\Debug\DAL.dll.config
+D:\Projects\VitamitoAPI\DAL\bin\Debug\DAL.dll
+D:\Projects\VitamitoAPI\DAL\bin\Debug\DAL.pdb
+D:\Projects\VitamitoAPI\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Projects\VitamitoAPI\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Projects\VitamitoAPI\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Projects\VitamitoAPI\DAL\obj\Debug\DAL.dll
+D:\Projects\VitamitoAPI\DAL\obj\Debug\DAL.pdb

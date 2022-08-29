@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="85a41d447a7747ab8c8a8438904b4cb0" Name="Diagram1">
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Banner" Width="1.5" PointX="11.25" PointY="92.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CardType" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Category" Width="1.5" PointX="11.25" PointY="72.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.City" Width="1.5" PointX="6.75" PointY="88.5" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Company" Width="1.5" PointX="11.25" PointY="81.875" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Country" Width="1.5" PointX="4.5" PointY="88.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Coupon" Width="1.5" PointX="3" PointY="142.5" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Customer" Width="1.5" PointX="6" PointY="80.875" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CustomerAddress" Width="1.5" PointX="8.25" PointY="104.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CustomerDetail" Width="1.5" PointX="14.25" PointY="86.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CustomerOrder" Width="1.5" PointX="16.25" PointY="76.25" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CustomerOrder1" Width="1.5" PointX="19.5" PointY="98.5" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.CustomerWishList" Width="1.5" PointX="14.25" PointY="83.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.DealsCategory" Width="1.5" PointX="13.5" PointY="68.5" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.DealsDetail" Width="1.5" PointX="18" PointY="69.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.DealsHeader" Width="1.5" PointX="11.25" PointY="67.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Floor" Width="1.5" PointX="11.25" PointY="77.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Inventory" Width="1.5" PointX="19" PointY="92.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.InventoryRecieve" Width="1.5" PointX="13.5" PointY="111.25" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.InventoryRequest" Width="1.5" PointX="13.5" PointY="107.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.IssueStock" Width="1.5" PointX="3" PointY="82.25" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.IssueStockDetail" Width="1.5" PointX="5.25" PointY="76.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Item" Width="1.5" PointX="15.75" PointY="67.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.ItemImage" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.ItemModiferMapping" Width="1.5" PointX="22" PointY="104.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.ItemVariant" Width="1.5" PointX="22" PointY="96.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Location" Width="1.5" PointX="9" PointY="78.5" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Modifier" Width="1.5" PointX="3" PointY="131.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Order" Width="1.5" PointX="17.25" PointY="83.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.OrderCheckout" Width="1.5" PointX="19.5" PointY="84.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.OrderDealDetail" Width="1.5" PointX="23.75" PointY="72.875" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.OrderDetail" Width="1.5" PointX="21.5" PointY="76" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.OrderModifierDetail" Width="1.5" PointX="24.75" PointY="105.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.OrderType" Width="1.5" PointX="11.25" PointY="88.875" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.PackageInfo" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Payment" Width="1.5" PointX="19.5" PointY="103.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.PurchaseOrder" Width="1.5" PointX="13.5" PointY="94.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.PurchaseOrderDetail" Width="1.5" PointX="22" PointY="83.375" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.PurchaseReturn" Width="1.5" PointX="15.75" PointY="96.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.ReceiptPermission" Width="1.5" PointX="3" PointY="136.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Reveiw" Width="1.5" PointX="18" PointY="108.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Status" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Stock" Width="1.5" PointX="24" PointY="77" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.StockStore" Width="1.5" PointX="16.5" PointY="91.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Store" Width="1.5" PointX="11.25" PointY="103.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.SubCategory" Width="1.5" PointX="13.5" PointY="72.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.SubUser" Width="1.5" PointX="19.25" PointY="74.625" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Supplier" Width="1.5" PointX="11.25" PointY="110.25" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.sysdiagram" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Table_orderCheckoutDetail" Width="1.5" PointX="21.75" PointY="88.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Table" Width="1.5" PointX="13.5" PointY="77.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Tax" Width="1.5" PointX="4.75" PointY="3.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.TaxJunction" Width="1.5" PointX="6.75" PointY="0.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Unit" Width="1.5" PointX="13.5" PointY="64" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.User" Width="1.5" PointX="0.75" PointY="79.125" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.UserPaymentInfo" Width="1.5" PointX="6.75" PointY="3.75" />
+        <EntityTypeShape EntityType="db_a74425_premiumposModel.Variant" Width="1.5" PointX="3" PointY="125.875" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK__Banner__Location__44952D46" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Category_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_SubCategory_Category" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_City_Country" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Customer_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Location_City" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_SubUser_City" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Company_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Company_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Customer_Country" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Location_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_SubUser_Country" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Coupons_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Customer_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerAddress_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerDetail_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerOrder_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerWishList_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Order_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderCheckout_Customer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerDetail_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerOrder_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerOrders_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_CustomerWishList_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_DealsCategory_DealsHeader" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_DealsDetail_DealsHeader" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_DealsDetail_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_DealsHeader_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Floors_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Tables_Floors" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Inventory_Inventory" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Inventory_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Inventory_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Inventory_Supplier" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_InventoryRecieve_Store" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_InventoryRequest_Store" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_IssueStock_Store" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_IssueStock_Store1" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_IssueStock_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_IssueStockDetail_IssueStock" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_IssueStockDetail_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Item_SubCategory" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Item_Unit" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ItemModiferMapping_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ItemVariant_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderDealDetail_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderDetail_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrderDetail_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Reveiws_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Stock_Item" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ItemModiferMapping_Modifiers" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ItemModiferMapping_Variant" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ItemVariant_Variant" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Location_USer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Order_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderCheckout_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderType_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrder_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Stock_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Store_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_SubUser_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Supplier_Location" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Modifiers_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderModifierDetail_Modifiers" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderCheckout_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderDetail_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Payment_Order" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Table_orderCheckoutDetail1_OrderCheckout" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderDealDetail_OrderDetail" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderModifierDetail_OrderDetail" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_OrderModifierDetail_Variant" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrder_Store" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrder_Supplier" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrder_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseOrderDetail_PurchaseOrder1" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_PurchaseReturn_PurchaseOrder" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Stock_PurchaseOrder" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_ReceiptPermissions_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_StockStore_StockStore" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_StockStore_Store" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_StockStore_User" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_SubUser_USer" />
+        <AssociationConnector Association="db_a74425_premiumposModel.FK_Variant_User" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,190 @@
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\BAL.dll.config
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\BAL.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\BAL.pdb
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\DAL.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\EntityFramework.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\Microsoft.Web.Infrastructure.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\Newtonsoft.Json.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Helpers.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Mvc.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.Deployment.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.Razor.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\DAL.pdb
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\DAL.dll.config
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\EntityFramework.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\lunchbox\API\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\lunchbox\API\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\lunchbox\API\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\lunchbox\API\BAL\obj\Release\BAL.dll
+D:\Rafi Data\Airtech\lunchbox\API\BAL\obj\Release\BAL.pdb
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\BAL.dll.config
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\BAL.dll
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\BAL.pdb
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\DAL.dll
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\DAL.pdb
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\DAL.dll.config
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\EntityFramework.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.Razor.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\food carrier\API\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\food carrier\API\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\food carrier\API\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\food carrier\API\BAL\obj\Release\BAL.dll
+D:\Rafi Data\Airtech\food carrier\API\BAL\obj\Release\BAL.pdb
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\BAL.dll.config
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\BAL.dll
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\BAL.pdb
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\DAL.dll
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\DAL.pdb
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\DAL.dll.config
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\EntityFramework.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.Razor.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\obj\Release\BAL.dll
+D:\Rafi Data\Airtech\pos\APP-API\API\BAL\obj\Release\BAL.pdb
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\BAL.dll.config
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\BAL.dll
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\BAL.pdb
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\DAL.dll
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\DAL.pdb
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\DAL.dll.config
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\EntityFramework.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\EntityFramework.SqlServer.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\Newtonsoft.Json.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.Helpers.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.Mvc.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.Razor.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.WebPages.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\bin\Release\System.Web.WebPages.Razor.xml
+\\192.168.0.105\airtechshare\Ammad\API\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+\\192.168.0.105\airtechshare\Ammad\API\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+\\192.168.0.105\airtechshare\Ammad\API\BAL\obj\Release\BAL.csproj.CopyComplete
+\\192.168.0.105\airtechshare\Ammad\API\BAL\obj\Release\BAL.dll
+\\192.168.0.105\airtechshare\Ammad\API\BAL\obj\Release\BAL.pdb
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\BAL.dll.config
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\BAL.dll
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\BAL.pdb
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\DAL.dll
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\DAL.pdb
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\DAL.dll.config
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\EntityFramework.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.Helpers.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.Mvc.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.Razor.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.WebPages.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Air Tech Solution\API-Food-Carrier\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Air Tech Solution\API-Food-Carrier\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Air Tech Solution\API-Food-Carrier\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Air Tech Solution\API-Food-Carrier\BAL\obj\Release\BAL.dll
+D:\Air Tech Solution\API-Food-Carrier\BAL\obj\Release\BAL.pdb
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\BAL.dll.config
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\BAL.dll
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\BAL.pdb
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\DAL.dll
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\DAL.pdb
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\DAL.dll.config
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\EntityFramework.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.Helpers.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.Mvc.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.Razor.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.WebPages.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Air Tech Solution\API-ECommerce\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Air Tech Solution\API-ECommerce\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Air Tech Solution\API-ECommerce\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Air Tech Solution\API-ECommerce\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Air Tech Solution\API-ECommerce\BAL\obj\Release\BAL.dll
+D:\Air Tech Solution\API-ECommerce\BAL\obj\Release\BAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\BAL.dll.config
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\BAL.dll
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\BAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\DAL.dll
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\DAL.pdb
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\DAL.dll.config
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\EntityFramework.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.Helpers.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.Mvc.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.Razor.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.WebPages.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\obj\Release\BAL.dll
+D:\Rafi Data\Airtech\pos\GoSmart-API\API-ECommerce\BAL\obj\Release\BAL.pdb
+D:\Project\CarExpressAPI\BAL\bin\Release\BAL.dll.config
+D:\Project\CarExpressAPI\BAL\bin\Release\BAL.dll
+D:\Project\CarExpressAPI\BAL\bin\Release\BAL.pdb
+D:\Project\CarExpressAPI\BAL\bin\Release\DAL.dll
+D:\Project\CarExpressAPI\BAL\bin\Release\DAL.pdb
+D:\Project\CarExpressAPI\BAL\bin\Release\DAL.dll.config
+D:\Project\CarExpressAPI\BAL\bin\Release\EntityFramework.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.Helpers.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.Mvc.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.Razor.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.WebPages.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Project\CarExpressAPI\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Project\CarExpressAPI\BAL\obj\Release\BAL.csprojAssemblyReference.cache
+D:\Project\CarExpressAPI\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Project\CarExpressAPI\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Project\CarExpressAPI\BAL\obj\Release\BAL.dll
+D:\Project\CarExpressAPI\BAL\obj\Release\BAL.pdb
+D:\Projects\VitamitoAPI\BAL\bin\Release\BAL.dll.config
+D:\Projects\VitamitoAPI\BAL\bin\Release\BAL.dll
+D:\Projects\VitamitoAPI\BAL\bin\Release\BAL.pdb
+D:\Projects\VitamitoAPI\BAL\bin\Release\DAL.dll
+D:\Projects\VitamitoAPI\BAL\bin\Release\DAL.pdb
+D:\Projects\VitamitoAPI\BAL\bin\Release\DAL.dll.config
+D:\Projects\VitamitoAPI\BAL\bin\Release\EntityFramework.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\Newtonsoft.Json.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.Helpers.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.Mvc.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.Razor.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.WebPages.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.WebPages.Deployment.xml
+D:\Projects\VitamitoAPI\BAL\bin\Release\System.Web.WebPages.Razor.xml
+D:\Projects\VitamitoAPI\BAL\obj\Release\BAL.csproj.AssemblyReference.cache
+D:\Projects\VitamitoAPI\BAL\obj\Release\BAL.csproj.CoreCompileInputs.cache
+D:\Projects\VitamitoAPI\BAL\obj\Release\BAL.csproj.CopyComplete
+D:\Projects\VitamitoAPI\BAL\obj\Release\BAL.dll
+D:\Projects\VitamitoAPI\BAL\obj\Release\BAL.pdb
