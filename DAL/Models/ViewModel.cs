@@ -300,20 +300,37 @@ namespace DAL.Models
     public class OrdersBLL
     {
         public int ID { get; set; }
-        public string DeliveryStatus { get; set; }
-        public int UserID{ get; set; }
         public Nullable<int> CustomerID { get; set; }
+        public Nullable<int> LocationID { get; set; }
         public Nullable<int> TransactionNo { get; set; }
         public Nullable<int> OrderNo { get; set; }
+        public Nullable<int> TableNo { get; set; }
+        public Nullable<int> WaiterNo { get; set; }
+        public Nullable<int> OrderTakerID { get; set; }
+        public Nullable<System.DateTime> OrderCreatedDT { get; set; }
         public string OrderType { get; set; }
-        public string OrderCreatedDT { get; set; }
+        public Nullable<int> GuestCount { get; set; }
+        public string DeliveryAddress { get; set; }
+        public Nullable<int> AgentID { get; set; }
+
+        public string AgentName { get; set; }
+
+        public string DeliveryTime { get; set; }
+
+        public string DeliveryStatus { get; set; }
+
+        public Nullable<double> Points { get; set; }
+        public string OrderMode { get; set; }
+        public int UserID{ get; set; }
+        
+        //public string OrderCreatedDT { get; set; }
         public string OrderDate { get; set; }
         public Nullable<int> StatusID { get; set; }
-        public Nullable<int> OrderTakerID { get; set; }
+       
         public Nullable<int> DeliverUserID { get; set; }
         public string LastUpdateBy { get; set; }
         public Nullable<System.DateTime> LastUpdatedDate { get; set; }
-        public Nullable<int> LocationID { get; set; }
+       
         public OrderCheckoutBLL OrderCheckouts { get; set; }
         public OrderCustomerBLL CustomerOrders { get; set; }
         public List<OrderDetailBLL> OrderDetails { get; set; }

@@ -114,6 +114,7 @@
   <ItemGroup>
     <Content Include="App_Data\HelpPageNuget.XML" />
     <Content Include="Areas\HelpPage\HelpPage.css" />
+    <Content Include="Assets\images\NA.png" />
     <Content Include="Global.asax" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

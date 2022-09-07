@@ -96,7 +96,7 @@ namespace BAL.Repositories
                                 }
 
                                 lstIM = new List<string>();
-                                lstIM.Add(item.Image == null ? "" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + item.Image.Replace(" ", "%20"));
+                                lstIM.Add(item.Image == null ? "./Assets/images/NA.png" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + item.Image.Replace(" ", "%20"));
 
                                 var random = new Random();
                                 var randomIF = new List<string> { "true","false"};
@@ -106,7 +106,7 @@ namespace BAL.Repositories
                                     ID = item.ID,
                                     Name = item.Name,
                                     Description = item.Description,
-                                    Image = item.Image == null ? "" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + item.Image.Replace(" ", "%20"),
+                                    Image = item.Image == null ? "./Assets/images/NA.png" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + item.Image.Replace(" ", "%20"),
                                     ItemType = item.ItemType,
                                     SubCategoryID = item.SubCategoryID,
                                     NameOnReceipt = item.NameOnReceipt,
@@ -129,7 +129,7 @@ namespace BAL.Repositories
                                 CategoryName = Cat.Name,
                                 Name = SubCat.Name,
                                 Description = SubCat.Description,
-                                Image = SubCat.Image == null ? "" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + SubCat.Image.Replace(" ", "%20"),
+                                Image = SubCat.Image == null ? "./Assets/images/NA.png" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + SubCat.Image.Replace(" ", "%20"),
                                 StatusID = SubCat.StatusID,
                                 Items = ItemLst
                             });
@@ -140,7 +140,7 @@ namespace BAL.Repositories
                             ID = Cat.ID,
                             Name = Cat.Name,
                             Description = Cat.Description,
-                            Image = Cat.Image == null ? "" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + Cat.Image.Replace(" ", "%20"),
+                            Image = Cat.Image == null ? "./Assets/images/NA.png" : ConfigurationSettings.AppSettings["AdminURL"].ToString() + Cat.Image.Replace(" ", "%20"),
 
                             StatusID = Cat.StatusID,
                             LocationID = Cat.LocationID,
